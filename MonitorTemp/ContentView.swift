@@ -107,3 +107,5 @@ class MonitorTemperatura: ObservableObject {
         tareaEnCurso?.cancel()
     }
 }
+
+
