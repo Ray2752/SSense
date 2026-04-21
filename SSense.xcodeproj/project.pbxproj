@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5D8847A22F836C8D00C466D2 /* Build configuration list for PBXProject "MonitorTemp" */;
+			buildConfigurationList = 5D8847A22F836C8D00C466D2 /* Build configuration list for PBXProject "SSense" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5D8847A22F836C8D00C466D2 /* Build configuration list for PBXProject "MonitorTemp" */ = {
+		5D8847A22F836C8D00C466D2 /* Build configuration list for PBXProject "SSense" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5D8847B02F836C8E00C466D2 /* Debug */,

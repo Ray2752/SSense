@@ -8,7 +8,7 @@ enum OpcionBarra: String, CaseIterable {
 }
 
 @main
-struct MonitorTempApp: App {
+struct SSenseApp: App {
     @StateObject private var monitor = MonitorTemperatura()
     @AppStorage("opcionBarraMenu") private var opcionBarra: OpcionBarra = .temperatura
     @State private var menuAbierto: Bool = false
