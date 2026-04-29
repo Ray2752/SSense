@@ -2,7 +2,7 @@ import Foundation
 import Combine
 
 @MainActor
-class MonitorTemperatura: ObservableObject {
+class SystemMonitor: ObservableObject {
 
     // MARK: - Public State
     @Published var temperaturaActual: String   = "-- °C"

@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5D8847A72F836C8D00C466D2 /* MonitorTemp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MonitorTemp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D8847A72F836C8D00C466D2 /* SSense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SSense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5D8847A92F836C8D00C466D2 /* MonitorTemp */ = {
+		5D8847A92F836C8D00C466D2 /* SSense */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MonitorTemp;
+			path = SSense;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		5D88479E2F836C8D00C466D2 = {
 			isa = PBXGroup;
 			children = (
-				5D8847A92F836C8D00C466D2 /* MonitorTemp */,
+				5D8847A92F836C8D00C466D2 /* SSense */,
 				5D8847A82F836C8D00C466D2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		5D8847A82F836C8D00C466D2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5D8847A72F836C8D00C466D2 /* MonitorTemp.app */,
+				5D8847A72F836C8D00C466D2 /* SSense.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5D8847A62F836C8D00C466D2 /* MonitorTemp */ = {
+		5D8847A62F836C8D00C466D2 /* SSense */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5D8847B22F836C8E00C466D2 /* Build configuration list for PBXNativeTarget "MonitorTemp" */;
+			buildConfigurationList = 5D8847B22F836C8E00C466D2 /* Build configuration list for PBXNativeTarget "SSense" */;
 			buildPhases = (
 				5D8847A32F836C8D00C466D2 /* Sources */,
 				5D8847A42F836C8D00C466D2 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5D8847A92F836C8D00C466D2 /* MonitorTemp */,
+				5D8847A92F836C8D00C466D2 /* SSense */,
 			);
-			name = MonitorTemp;
+			name = SSense;
 			packageProductDependencies = (
 			);
-			productName = MonitorTemp;
-			productReference = 5D8847A72F836C8D00C466D2 /* MonitorTemp.app */;
+			productName = SSense;
+			productReference = 5D8847A72F836C8D00C466D2 /* SSense.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5D8847A62F836C8D00C466D2 /* MonitorTemp */,
+				5D8847A62F836C8D00C466D2 /* SSense */,
 			);
 		};
 /* End PBXProject section */
@@ -327,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5D8847B22F836C8E00C466D2 /* Build configuration list for PBXNativeTarget "MonitorTemp" */ = {
+		5D8847B22F836C8E00C466D2 /* Build configuration list for PBXNativeTarget "SSense" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5D8847B32F836C8E00C466D2 /* Debug */,

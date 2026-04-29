@@ -16,8 +16,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5D8847A62F836C8D00C466D2"
-               BuildableName = "MonitorTemp.app"
-               BlueprintName = "MonitorTemp"
+               BuildableName = "SSense.app"
+               BlueprintName = "SSense"
                ReferencedContainer = "container:SSense.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D8847A62F836C8D00C466D2"
-            BuildableName = "MonitorTemp.app"
-            BlueprintName = "MonitorTemp"
+            BuildableName = "SSense.app"
+            BlueprintName = "SSense"
             ReferencedContainer = "container:SSense.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -63,8 +63,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5D8847A62F836C8D00C466D2"
-            BuildableName = "MonitorTemp.app"
-            BlueprintName = "MonitorTemp"
+            BuildableName = "SSense.app"
+            BlueprintName = "SSense"
             ReferencedContainer = "container:SSense.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
